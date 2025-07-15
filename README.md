@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Natraj Ramamoorthy
 
-🎯 I am a technical writer who is passionate about crafting clear, structured documentation for the end user, such as User Guides, Online and Printable (Pdf) help files, Knowledge Base Content, Frequently Asked Questions (FAQs), and also developer documentation, such as APIs. 
+I am a technical writer who is passionate about crafting clear, structured documentation for the end user, such as User Guides, Online and Printable (Pdf) help files, Knowledge Base Content, Frequently Asked Questions (FAQs), and also developer documentation, such as APIs. 
 
 I have worked with tools such as Microsoft Office, MadCap Flare, Robohelp, FrameMaker, Arbortext (EPIC) editor, SnagIt, Snipping Tool, Visio. I am also well-versed with Github and Microsoft Copilot as supporting tools to to leverage documentation.
 
